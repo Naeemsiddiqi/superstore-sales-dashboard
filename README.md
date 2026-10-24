@@ -161,6 +161,5 @@ superstore-sales-dashboard/
 Bachelor of Applied Science (Mathematics Technology), Universiti Tun Hussein Onn Malaysia (UTHM)
 
 - LinkedIn: www.linkedin.com/in/ahmad-naeem-siddiqi
-- GitHub: [add your profile link here]
 
 *Dataset: Superstore Sales dataset from Kaggle.*
