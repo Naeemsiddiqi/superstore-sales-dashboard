@@ -132,10 +132,13 @@ Lesson: always check how a metric is calculated, not just whether it looks reaso
 
 ```
 superstore-sales-dashboard/
-├── README.md
-├── Superstore_Sales_Dashboard.xlsx    # full workbook (data, pivots, dashboard)
+├── Clean Dataset
+    └── Superstore_Sales_Dashboard.xlsx    # full workbook (data, pivots, dashboard)
+├── Raw Dataset
+    └── train.csv    
 └── images/
     └── dashboard.png                  # dashboard screenshot
+├── README.md
 ```
 
 ## How to Use
@@ -143,7 +146,7 @@ superstore-sales-dashboard/
 1. Download `Superstore_Sales_Dashboard.xlsx`.
 2. Open it in **desktop Microsoft Excel** (Slicers and PivotCharts do not work fully in Excel Online or on GitHub's preview).
 3. Go to the **Dashboard** sheet.
-4. Use the **Year** and **Region** slicers to filter, and click **Reset Filter** to clear.
+4. Use the **Year** and **Region** slicers to filter.
 
 ## Future Improvements
 
@@ -157,7 +160,7 @@ superstore-sales-dashboard/
 **Ahmad Naeem Siddiqi bin Ibrahim**
 Bachelor of Applied Science (Mathematics Technology), Universiti Tun Hussein Onn Malaysia (UTHM)
 
-- LinkedIn: [add your profile link here]
+- LinkedIn: www.linkedin.com/in/ahmad-naeem-siddiqi
 - GitHub: [add your profile link here]
 
 *Dataset: Superstore Sales dataset from Kaggle.*
